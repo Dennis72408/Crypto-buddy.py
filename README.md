@@ -1,5 +1,4 @@
 
-
 crypto_db = {
     "Bitcoin": {
         "price_trend": "rising",
